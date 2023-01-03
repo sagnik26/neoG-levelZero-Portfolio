@@ -86,7 +86,7 @@ ul li a {
 .tech {
     background-color: rgb(245, 243, 243);
     border-radius: 10px;
-    height: 25vh;
+    height: 40vh;
     text-align: center;
     display: flex;
     flex-direction: column;
