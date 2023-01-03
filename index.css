@@ -109,9 +109,10 @@ ul li a {
 }
 
 .project {
+    padding: 2rem;
     background-color: rgb(245, 243, 243);
     border-radius: 10px;
-    height: 25vh;
+    height: 30vh;
     text-align: center;
     display: flex;
     flex-direction: column;
